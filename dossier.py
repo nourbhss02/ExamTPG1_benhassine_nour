@@ -10,4 +10,3 @@ def somme(T):
     for t in T:
         S+=t
     return S
-865434c (Ajout de dossier.py dans main)
